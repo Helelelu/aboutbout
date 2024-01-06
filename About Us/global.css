@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --sheldon8284hocooscom-oswald-regular-54: Oswald;
+  --sheldon8284hocooscom-quicksand-regular-24: Quicksand;
+  --font-inherit: inherit;
+
+  /* font sizes */
+  --font-size-13xl: 32px;
+  --font-size-29xl: 48px;
+  --font-size-lg: 18px;
+  --sheldon8284hocooscom-quicksand-regular-24-size: 24px;
+  --sheldon8284hocooscom-oswald-regular-54-size: 54px;
+  --font-size-xl: 20px;
+  --font-size-base: 16px;
+  --font-size-21xl: 40px;
+
+  /* Colors */
+  --sheldon8284hocooscom-mine-shaft: #2e2b2b;
+  --color-darkslategray: #393838;
+  --color-sandybrown: #ffc67e;
+  --color-white: #fff;
+  --color-dimgray: #4e4949;
+  --sheldon8284hocooscom-pearl-bush: #ebe6db;
+  --sheldon8284hocooscom-barley-corn: #9d7e57;
+
+  /* Paddings */
+  --padding-19xl: 38px;
+  --padding-3xs: 10px;
+  --padding-13xl: 32px;
+}
